@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [varun-exe.netlify.app](varun-exe.netlify.app)
+- 👨‍💻 All of my projects are available at [varun-exe.netlify.app](https://varunkumarn.netlify.app/)
 
 - 💬 Ask me about **mern , graphic design , comic**
 
